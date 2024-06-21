@@ -30,17 +30,17 @@ cat ~/.ssh/id_rsa.pub
 ### Per-Assignment Setup
 This will download Assignment 1, Question 3 locally, allowing you to work on your scripts and upload (push) them back up to GitHub.
 
-6. Clone your assingment repository into your ~/unx510/a1-q3 directory using SSH:
+6. Clone your assingment repository into your ~/unx510/assignment1/q3/ directory using SSH:
 ```bash
-git clone git@github.com:unx510/assignment-1-yourgithubusername.git ~/unx510/a1-q3/
+git clone git@github.com:unx510/assignment-1-yourgithubusername.git ~/unx510/assignment1/q3/
 ```
 
 # Submission
 When you have completed all activities in this assignment question, no submission to Blackboard is necessary. Complete the following steps:
 
-1. Change into your a1-q3 directory:
+1. Change into your assignment1/q3 directory:
 ```bash
-cd ~/unx510/a1-q3/
+cd ~/unx510/assignment1/q3/
 pwd #confirm that you are in the right directory
 ```
 
